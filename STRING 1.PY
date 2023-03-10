@@ -1,0 +1,6 @@
+str[0]= 'P' = str[-6] ,
+str[1]= 'Y' = str[-5] ,
+str[1]= 'T' = str[-4] ,
+str[1]= 'H' = str[-3] ,
+str[1]= 'O' = str[-2] ,
+str[1]= 'N' = str[-1] ,
